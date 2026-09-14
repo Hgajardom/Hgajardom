@@ -39,6 +39,12 @@ Proyecto de billetera digital desarrollado con HTML.
 
 Seguir desarrollando mis conocimientos en programación y participar en proyectos donde pueda aplicar y mejorar mis habilidades.
 
+## 🎓 Formación
+
+- Formación en desarrollo de aplicaciones.
+- Aprendizaje y práctica con Java y Spring Framework.
+- Desarrollo de proyectos utilizando Git y GitHub.
+
 ## 📫 Contacto
 
 GitHub: [@Hgajardom](https://github.com/Hgajardom)
